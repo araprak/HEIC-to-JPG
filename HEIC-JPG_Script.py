@@ -21,7 +21,7 @@ def main(folder_path):
             heic_files.append(filename)
 
     if not heic_files:
-        print(f"No HEIC files found in the folder '{folder_path}', now fuck off to the next folder.")
+        print(f"No HEIC files found in the folder '{folder_path}', now move to the next folder.")
     else:
         print(f"Detected {len(heic_files)} HEIC file(s) in the folder '{folder_path}'. Converting...")
 
