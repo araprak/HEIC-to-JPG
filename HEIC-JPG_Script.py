@@ -32,6 +32,6 @@ def main(folder_path):
             convert_heic_to_jpg(heic_path, jpg_path)
 
 if __name__ == "__main__":
-    folder_path = r"2023\06-June\29-06-23"  # Change this to your desired folder path
+    folder_path = r"C:\Users\[Your username]\Desktop\HEIC_images"  # Change this to your desired folder path
     #Finished till here
     main(folder_path)
