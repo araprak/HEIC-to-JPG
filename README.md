@@ -1,4 +1,4 @@
-# HEIC-to-JPG
+# HEIC to JPG Converter: For All Your Bulk Image Conversion Needs
 
 Python code for converting HEIC images to JPG images in bulk
 
